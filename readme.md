@@ -57,6 +57,8 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 ---
 
+give some margin to the items
+
 ## 🚀 Featured Applications
 
 <p align="center">
@@ -71,7 +73,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center" width="260">
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/td.webp" width="80"/>
 
 <br/><b>Tech Domain</b><br/>
 <sub>Service Management Platform</sub>
@@ -90,7 +92,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center" width="260">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/bvs.webp" width="80"/>
 
 <br/><b>Apna BVS</b><br/>
 <sub>Biometric Banking System</sub>
@@ -105,7 +107,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center" width="260">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/maalco.webp" width="80"/>
 
 <br/><b>Maalco</b><br/>
 <sub>E-Commerce Industrial Platform</sub>
@@ -128,7 +130,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/student.webp" width="80"/>
 
 <br/><b>Lyceum Student</b><br/>
 <sub>Education App</sub>
@@ -147,7 +149,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/staff.webp" width="80"/>
 
 <br/><b>Lyceum Staff</b><br/>
 <sub>Staff Management</sub>
@@ -162,7 +164,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/tls.webp" width="80"/>
 
 <br/><b>TLS Platform</b><br/>
 <sub>Language Services</sub>
@@ -185,7 +187,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/ams.webp" width="80"/>
 
 <br/><b>TLS AMS</b><br/>
 <sub>Exam System</sub>
@@ -204,7 +206,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/stories.webp" width="80"/>
 
 <br/><b>GPT Stories</b><br/>
 <sub>AI Kids App</sub>
@@ -219,7 +221,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <td align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2913/2913465.png" width="80"/>
+<img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/lnps.webp" width="80"/>
 
 <br/><b>LNPS Pest Control</b><br/>
 <sub>Service Platform</sub>
