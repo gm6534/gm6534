@@ -71,14 +71,14 @@ give some margin to the items
 
 <tr>
 
-<td align="center" width="260">
+<td align="center">
 
 <img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/td.webp" width="80"/>
 
 <br/><b>Tech Domain</b><br/>
 <sub>Service Management Platform</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.techdomain.tdm">
 <img src="https://img.shields.io/badge/Android-Tech%20Domain-0ea5e9?style=flat&logo=google-play"/>
@@ -90,14 +90,14 @@ give some margin to the items
 
 </td>
 
-<td align="center" width="260">
+<td align="center">
 
 <img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/bvs.webp" width="80"/>
 
 <br/><b>Apna BVS</b><br/>
 <sub>Biometric Banking System</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.apnabank.bvs">
 <img src="https://img.shields.io/badge/Android-Apna%20BVS-0ea5e9?style=flat&logo=google-play"/>
@@ -105,14 +105,14 @@ give some margin to the items
 
 </td>
 
-<td align="center" width="260">
+<td align="center">
 
 <img src="https://raw.githubusercontent.com/gm6534/gm6534/main/assets/maalco.webp" width="80"/>
 
 <br/><b>Maalco</b><br/>
 <sub>E-Commerce Industrial Platform</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.maalco.maalco">
 <img src="https://img.shields.io/badge/Android-Maalco%20Foods-0ea5e9?style=flat&logo=google-play"/>
@@ -135,7 +135,7 @@ give some margin to the items
 <br/><b>Lyceum Student</b><br/>
 <sub>Education App</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.lyceumgroupofschools.student">
 <img src="https://img.shields.io/badge/Android-Student-0ea5e9?style=flat&logo=google-play"/>
@@ -154,7 +154,7 @@ give some margin to the items
 <br/><b>Lyceum Staff</b><br/>
 <sub>Staff Management</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.americanlyceum.staff">
 <img src="https://img.shields.io/badge/Android-Staff-0ea5e9?style=flat&logo=google-play"/>
@@ -169,7 +169,7 @@ give some margin to the items
 <br/><b>TLS Platform</b><br/>
 <sub>Language Services</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=org.languageshop.tls">
 <img src="https://img.shields.io/badge/Android-TLS-0ea5e9?style=flat&logo=google-play"/>
@@ -192,7 +192,7 @@ give some margin to the items
 <br/><b>TLS AMS</b><br/>
 <sub>Exam System</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=ams.tlsexaminations.com">
 <img src="https://img.shields.io/badge/Android-AMS-0ea5e9?style=flat&logo=google-play"/>
@@ -211,7 +211,7 @@ give some margin to the items
 <br/><b>GPT Stories</b><br/>
 <sub>AI Kids App</sub>
 
-<br/><br/>
+
 
 <a href="https://apps.apple.com/pk/app/gpt-stories-for-kids/id1668803305">
 <img src="https://img.shields.io/badge/iOS-Stories-ec4899?style=flat&logo=apple"/>
@@ -226,7 +226,7 @@ give some margin to the items
 <br/><b>LNPS Pest Control</b><br/>
 <sub>Service Platform</sub>
 
-<br/><br/>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.lnpestsolutions.lnpsprod">
 <img src="https://img.shields.io/badge/Android-LNPS-0ea5e9?style=flat&logo=google-play"/>
