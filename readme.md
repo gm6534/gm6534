@@ -79,11 +79,11 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.techdomain.tdm">
-<img src="https://img.shields.io/badge/Android-Play%20Store-0ea5e9?style=flat&logo=google-play"/>
+<img src="https://img.shields.io/badge/Android-Tech%20Domain-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 <a href="https://apps.apple.com/us/app/tech-domain/id6742741677">
-<img src="https://img.shields.io/badge/iOS-App%20Store-111827?style=flat&logo=apple"/>
+<img src="https://img.shields.io/badge/iOS-Tech%20Domain-111827?style=flat&logo=apple"/>
 </a>
 
 </td>
@@ -98,7 +98,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.apnabank.bvs">
-<img src="https://img.shields.io/badge/Android-Play%20Store-22c55e?style=flat"/>
+<img src="https://img.shields.io/badge/Android-Apna%20BVS-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 </td>
@@ -108,16 +108,16 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="80"/>
 
 <br/><b>Maalco</b><br/>
-<sub>Industrial Platform</sub>
+<sub>E-Commerce Industrial Platform</sub>
 
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.maalco.maalco">
-<img src="https://img.shields.io/badge/Android-Play%20Store-f59e0b?style=flat"/>
+<img src="https://img.shields.io/badge/Android-Maalco%20Foods-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 <a href="https://apps.apple.com/us/app/maalco-foods/id6751731191">
-<img src="https://img.shields.io/badge/iOS-App%20Store-111827?style=flat&logo=apple"/>
+<img src="https://img.shields.io/badge/iOS-Maalco%20Foods-111827?style=flat&logo=apple"/>
 </a>
 
 </td>
@@ -136,7 +136,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.lyceumgroupofschools.student">
-<img src="https://img.shields.io/badge/Android-Student-8b5cf6?style=flat"/>
+<img src="https://img.shields.io/badge/Android-Student-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 <a href="https://apps.apple.com/pk/app/american-lyceum-student/id1596906287">
@@ -155,7 +155,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.americanlyceum.staff">
-<img src="https://img.shields.io/badge/Android-Staff-a855f7?style=flat"/>
+<img src="https://img.shields.io/badge/Android-Staff-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 </td>
@@ -170,7 +170,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=org.languageshop.tls">
-<img src="https://img.shields.io/badge/Android-TLS-06b6d4?style=flat"/>
+<img src="https://img.shields.io/badge/Android-TLS-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 <a href="https://apps.apple.com/pk/app/tls-interpreting-app/id1644160088">
@@ -193,7 +193,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=ams.tlsexaminations.com">
-<img src="https://img.shields.io/badge/Android-AMS-10b981?style=flat"/>
+<img src="https://img.shields.io/badge/Android-AMS-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 <a href="https://apps.apple.com/pk/app/tls-ams/id6741712139">
@@ -212,7 +212,7 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 <br/><br/>
 
 <a href="https://apps.apple.com/pk/app/gpt-stories-for-kids/id1668803305">
-<img src="https://img.shields.io/badge/iOS-App%20Store-ec4899?style=flat&logo=apple"/>
+<img src="https://img.shields.io/badge/iOS-Stories-ec4899?style=flat&logo=apple"/>
 </a>
 
 </td>
@@ -221,13 +221,13 @@ My work is centered on delivering complete product ecosystems — from mobile ap
 
 <img src="https://cdn-icons-png.flaticon.com/512/2913/2913465.png" width="80"/>
 
-<br/><b>LNP Pest</b><br/>
+<br/><b>LNPS Pest Control</b><br/>
 <sub>Service Platform</sub>
 
 <br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.lnpestsolutions.lnpsprod">
-<img src="https://img.shields.io/badge/Android-Play%20Store-ef4444?style=flat"/>
+<img src="https://img.shields.io/badge/Android-LNPS-0ea5e9?style=flat&logo=google-play"/>
 </a>
 
 </td>
